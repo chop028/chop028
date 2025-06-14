@@ -14,9 +14,8 @@
 
 <!-- 소개글 -->
 <p align='center'>
-  안녕하세요,<br>
-  ㅎㅎ<br>
-  <strong>신입 개발자입니다.</strong>
+  Hello! 👋<br>
+  I'm Backend Developer.<br>
 </p>
 
 <!-- 기술 스택 -->
