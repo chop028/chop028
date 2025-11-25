@@ -38,9 +38,6 @@
 <!-- 사용한 언어 순위 카드 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chop028&layout=compact&theme=tokyonight)
 
-<!-- GitHub Stats Card -->
-[![SeungAh-Yoo99's GitHub stats](https://github-readme-stats.vercel.app/api?username=chop028&show_icons=true&theme=tokyonight)](https://github.com/SeungAh-Yoo99/github-readme-stats)
-
 ## ⚙️ Algorithm
 
 <!-- solved.ac 프로필 -->
